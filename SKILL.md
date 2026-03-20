@@ -1,6 +1,6 @@
 ---
 name: hwp-batch-convert
-description: Batch-convert 한컴 한글 문서(HWP/HWPX) to PDF, HWPX, DOCX, ODT, HTML, RTF, TXT, and image formats on Windows using HWP COM automation. Use when the user asks for 이 폴더 hwp 전부 pdf로 바꿔줘, hwp/hwpx/doc/pdf 일괄 변환, 한글문서 일괄 처리, 폴더 단위 변환, 여러 한글 파일을 다른 형식으로 내보내기, or wants a Korean-friendly batch conversion/report flow. Prefer this skill for Windows environments with Hancom HWP installed; do not use it for non-HWP document families unless the task is explicitly about HWP/HWPX conversion.
+description: Batch-convert 한컴 한글 문서(HWP/HWPX) on Windows into PDF and other export formats with a Korean-friendly automation workflow. Use when the user asks for 이 폴더 hwp 전부 pdf로 바꿔줘, hwp/hwpx/doc/pdf 일괄 변환, 한글문서 일괄 처리, 폴더 단위 변환, 여러 한글 파일을 다른 형식으로 내보내기, or wants plan-only / mock / real conversion runs with machine-readable reports. Supports HWP/HWPX to PDF, HWPX, DOCX, ODT, HTML, RTF, TXT, PNG, JPG, BMP, and GIF, plus optional automatic approval of known 한글 보안 확인 팝업. Prefer this skill for Windows environments with Hancom HWP installed; do not use it for non-HWP document families unless the task is explicitly about HWP/HWPX conversion.
 ---
 
 # Hwp Batch Convert
