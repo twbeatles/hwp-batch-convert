@@ -6,6 +6,20 @@
 
 즉, 이 README만 봐도 바로 **OpenClaw에서 설치/사용하는 스킬 저장소**라는 점이 드러나도록 정리했습니다.
 
+---
+
+## OpenClaw에서 설치하기
+
+이 저장소는 **OpenClaw AgentSkill 리포지토리**입니다. 설치/연결할 때는 저장소 이름만 봐도 용도를 알아볼 수 있게 `openclaw-hwp-batch-convert` 이름을 사용합니다.
+
+일반적으로는 아래처럼 다룹니다.
+
+- 저장소: `twbeatles/openclaw-hwp-batch-convert`
+- 스킬 엔트리: `SKILL.md`
+- 사람이 바로 이해할 이름: **OpenClaw Skill: HWP Batch Convert**
+
+필요하면 OpenClaw/ClawHub 워크플로에서 이 저장소를 기준으로 설치하거나 동기화하면 됩니다.
+
 핵심은 단순한 “파일 하나 변환”이 아니라, 아래 같은 실사용 시나리오입니다.
 
 - `이 폴더 hwp 전부 pdf로 바꿔줘`
